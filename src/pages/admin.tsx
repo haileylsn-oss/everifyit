@@ -499,6 +499,8 @@ const AdminPage = () => {
       
     <ImageTable/>
     </div>
+
+    <p>Multi1</p>
     </>
   );
 };
